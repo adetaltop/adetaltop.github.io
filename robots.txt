@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adetaltop.github.io/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/app/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/assets/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/css/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/data/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/includes/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/item/sitemap.html.gz
+Sitemap: https://adetaltop.github.io/src/sitemap.html.gz
